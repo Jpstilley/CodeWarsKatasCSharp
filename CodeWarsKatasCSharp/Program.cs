@@ -6,9 +6,24 @@ namespace CodeWarsKatasCSharp
     {
         static void Main(string[] args)
         {
-
+            
+           
         }
 
+        //  Sort Number
+        //  https://www.codewars.com/kata/5174a4c0f2769dd8b1000003/train/csharp
+        //public static int[] SortNumbers(int[] nums)
+        //{
+        //    if (nums != null && nums.Length != 0)
+        //    {
+        //        Array.Sort(nums);
+        //    }
+        //    else
+        //    {
+        //        nums = new int[0];
+        //    }
+        //    return nums;
+        //}
 
         // Testing 1-2-3
         // https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9/train/csharp
