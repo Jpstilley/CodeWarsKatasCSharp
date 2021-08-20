@@ -1,0 +1,13 @@
+/Users/Joey/repos/CodeWarsKatasCSharp/CodeWarsKatasCSharp/obj/Debug/netcoreapp3.1/CodeWarsKatasCSharp.csproj.AssemblyReference.cache
+/Users/Joey/repos/CodeWarsKatasCSharp/CodeWarsKatasCSharp/obj/Debug/netcoreapp3.1/CodeWarsKatasCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Joey/repos/CodeWarsKatasCSharp/CodeWarsKatasCSharp/obj/Debug/netcoreapp3.1/CodeWarsKatasCSharp.AssemblyInfoInputs.cache
+/Users/Joey/repos/CodeWarsKatasCSharp/CodeWarsKatasCSharp/obj/Debug/netcoreapp3.1/CodeWarsKatasCSharp.AssemblyInfo.cs
+/Users/Joey/repos/CodeWarsKatasCSharp/CodeWarsKatasCSharp/obj/Debug/netcoreapp3.1/CodeWarsKatasCSharp.csproj.CoreCompileInputs.cache
+/Users/Joey/repos/CodeWarsKatasCSharp/CodeWarsKatasCSharp/bin/Debug/netcoreapp3.1/CodeWarsKatasCSharp.deps.json
+/Users/Joey/repos/CodeWarsKatasCSharp/CodeWarsKatasCSharp/bin/Debug/netcoreapp3.1/CodeWarsKatasCSharp.runtimeconfig.json
+/Users/Joey/repos/CodeWarsKatasCSharp/CodeWarsKatasCSharp/bin/Debug/netcoreapp3.1/CodeWarsKatasCSharp.runtimeconfig.dev.json
+/Users/Joey/repos/CodeWarsKatasCSharp/CodeWarsKatasCSharp/bin/Debug/netcoreapp3.1/CodeWarsKatasCSharp.dll
+/Users/Joey/repos/CodeWarsKatasCSharp/CodeWarsKatasCSharp/bin/Debug/netcoreapp3.1/CodeWarsKatasCSharp.pdb
+/Users/Joey/repos/CodeWarsKatasCSharp/CodeWarsKatasCSharp/obj/Debug/netcoreapp3.1/CodeWarsKatasCSharp.dll
+/Users/Joey/repos/CodeWarsKatasCSharp/CodeWarsKatasCSharp/obj/Debug/netcoreapp3.1/CodeWarsKatasCSharp.pdb
+/Users/Joey/repos/CodeWarsKatasCSharp/CodeWarsKatasCSharp/obj/Debug/netcoreapp3.1/CodeWarsKatasCSharp.genruntimeconfig.cache
