@@ -6,9 +6,58 @@ namespace CodeWarsKatasCSharp
     {
         static void Main(string[] args)
         {
-            
-           
+            int[] numbers = new[] { 2, 1, 1};
+
+            int answer = Stray(numbers);
+
+            Console.WriteLine(answer);
+
+
+
         }
+
+
+        // Find the stray number
+        // https://www.codewars.com/kata/57f609022f4d534f05000024/train/csharp
+        //public static int Stray(int[] numbers)
+        //{
+        //    Array.Sort(numbers);
+        //    if (numbers[0] != numbers[1])
+        //    {
+        //        return numbers[0];
+        //    }
+        //    else
+        //    {
+        //        return numbers[numbers.Length - 1];
+        //    }
+        //}
+
+
+        //  Two Sum
+        //  https://www.codewars.com/kata/52c31f8e6605bcc646000082/train/csharp
+        //public static int[] TwoSum(int[] numbers, int target)
+        //{
+        //    int[] answer = new int[2];
+        //    for (int i = 0; i < numbers.Length; i++)
+        //    {
+        //        for (int j = 1; j < numbers.Length; j++)
+        //        {
+        //            if (numbers[i] + numbers[j] == target)
+        //            {
+        //                answer[0] = i;
+        //                answer[1] = j;
+        //                return answer;
+
+        //            }
+        //        }
+        //    }
+        //    return answer;
+        //}
+
+
+
+
+
 
         //  Sort Number
         //  https://www.codewars.com/kata/5174a4c0f2769dd8b1000003/train/csharp

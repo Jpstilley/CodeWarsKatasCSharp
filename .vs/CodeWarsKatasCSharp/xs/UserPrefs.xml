@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{9004E7B1-3249-4A66-B98B-AF2ED40C45EE}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="CodeWarsKatasCSharp/Program.cs">
     <Files>
-      <File FileName="CodeWarsKatasCSharp/Program.cs" Line="23" Column="24" />
+      <File FileName="CodeWarsKatasCSharp/Program.cs" Line="32" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,9 +19,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/Joey/repos/CodeWarsKatasCSharp/CodeWarsKatasCSharp/Program.cs" relfile="CodeWarsKatasCSharp/Program.cs" line="37" column="9" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
