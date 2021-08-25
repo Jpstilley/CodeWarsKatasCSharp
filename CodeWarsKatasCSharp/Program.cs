@@ -1,4 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
 
 namespace CodeWarsKatasCSharp
 {
@@ -6,15 +9,48 @@ namespace CodeWarsKatasCSharp
     {
         static void Main(string[] args)
         {
-            int[] numbers = new[] { 2, 1, 1};
-
-            int answer = Stray(numbers);
-
-            Console.WriteLine(answer);
-
 
 
         }
+
+
+
+        //  Break camelCase
+        //  https://www.codewars.com/kata/5208f99aee097e6552000148/train/csharp
+
+        //static void Main(string[] args)
+        //{
+        //    var alpha = "camelCasing";
+        //    Console.WriteLine(BreakCamelCase(alpha));
+        //}
+
+        //public static string BreakCamelCase(string str)
+
+        //{
+        //    for (int index = 0; index < str.Length; index++)
+        //    {
+        //        if (Char.IsUpper(str[index]))
+        //        {
+        //            str = str.Insert(index, " ");
+        //            index++;
+        //        }
+        //    }
+        //    return str;
+        //}
+
+
+        //  Love vs friendship
+        //  https://www.codewars.com/kata/59706036f6e5d1e22d000016/train/csharp
+        //public static int WordsToMarks(string str)
+        //{
+        //    var wordTotal = 0;
+        //    char[] wordSeperated = str.ToCharArray();
+        //    foreach(char letter in wordSeperated)
+        //    {
+        //        wordTotal += (char.ToUpper(letter) - 64);
+        //    }
+        //    return wordTotal;
+        //}
 
 
         // Find the stray number
